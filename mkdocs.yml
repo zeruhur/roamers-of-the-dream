@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: 'Roamers of the Dream - Web Version'
+site_description: 'An old school adventure game set in the Dreamlands'
+site_author: 'Zeruhur'
+theme:
+  name: windmill #gitbook
+nav:
+    - Home: 'index.md'
+    - The Game: text.md
+    - Legal: legal.md
+repo_url: https://github.com/zeruhur/roamers-of-the-dream/
