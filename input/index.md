@@ -1,3 +1,20 @@
+---
+title: 'Roamers of the Dream SRD'
+---
+
+*After consulting ancient codes in search of the dream lands, one night you went to sleep and started dreaming. It was not a dream like the others, it was vivid and real, so much so that you could not distinguish it from the wake. Time seems to pass more slowly in the Dream Lands and any attempt you made to wake up has been in vain.*
+*In this world, everyone addresses you by another name and claims that you have always been someone else. The memories of this identity of yours are vague and superimposed on your memories of the Waking World. Having Failed to find the way to awake, you started living your life here.*
+*The Dream is sometimes full of wonders, other times of unmentionable horrors and now you have to face this life beyond imagination. Now you are a **Roamer of the Dream**. Will you ever find a way to wake up?*
+
+Welcome to *Roamers of the Dream - Web Version* an old school inspired adventure game in which you play the role of a dream wanderer.
+The game system is simple to learn.  You will find everything you need to create and play a character.
+Players will take on the role of Roamers who will have to live, survive and find a way to wake up before losing their lucidity for good.
+
+You can find the print version at the [itch.io page](https://zeruhur.itch.io/roamers-of-the-dream) in many formats: pdf, epub, markdown and odt.
+The game is licensed under CC-BY-SA 4.0.
+Feel free to use texts or game mechanics to build up your own game.
+If you are searching a more generic version of the system, check out also [*GIST!*](https://zeruhur.itch.io/gist) the Generic Immediate System for Tabletop, onto Roamers is built on.
+
 # Welcome to the Dream
 
 *My name is Robert Howard Clark. Ever since I was young I've always been drawn to the occult and the power of dreams. That is why I have spent long years of my life searching for the keys to the Dreamlands, consulting dusty volumes of forgotten sciences. The research used my mental, physical and financial resources but, despite my spasmodic research, my efforts were worth nothing: the doors of the Dream remained closed.
@@ -596,3 +613,23 @@ The city of Dromar draws inspiration from the works of Yoshitoshi ABe (Haibane R
 The Dreamlands and Lake Hali pay homage to the pioneers of the fantastic: H.P. Lovecraft, Clark Ashton Smith, Robert E. Howard, Ambrose Bierce and Robert W. Chambers.
 
 Special thanks to Giuseppe Cavallini and Pieralberto Cavallo for their support and suggestions while writing *Roamers of the Dreams*. And obviously to my wife Cristina for allowing me to dedicate myself to the creation of this game and giving valuable advice on design and layout.
+
+# Legal
+Roamers of the Dream: And Old School Adventure Game in the Dreamlands.
+
+Texts, maps, design and layout: 2021 by Roberto Bisceglie
+
+Maps generated with [Medieval Fantasy City Generator by watabou](https://watabou.itch.io/medieval-fantasy-city-generator) and edited in open source software.
+
+Cover Illustration: *Aurora Borealis in High Latitudes* from the book William MacKenzie’s National Encyclopedia (1891).
+
+Interior Illustrations generated in [Artbreeder](https://www.artbreeder.com/) under the Creative Commons CC0 license.
+
+“Roamers of the Dream” and “Wolf Moon Games” are trademarks of Roberto Bisceglie, all rights are reserved.
+
+Texts and maps are released under CC-BY-SA 4.0.
+
+Dedicated to my wife Cristina.
+
+To stay up to date on errata, new material and editions, visit the project page: 
+https://zeruhur.itch.io/roamers-of-the-dream
